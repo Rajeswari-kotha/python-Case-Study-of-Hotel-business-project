@@ -15,5 +15,5 @@ This case study explores the business  of hotel operations, focusing on booking 
 ![Screenshot 2024-08-02 132345](https://github.com/user-attachments/assets/2a15b10a-1ca4-43e8-8a86-6f10615c9bf7)
 ## 7.Print revenue realized per hotel type
 ![Screenshot 2024-08-02 132403](https://github.com/user-attachments/assets/c9702a2e-e423-46b4-ac85-1ae3d81a0211)
-## 8.Print average rating per city
+## 8.Print a pie chart of revenue realized per booking platform
 ![Screenshot 2024-08-02 132410](https://github.com/user-attachments/assets/a55fab91-da0c-4321-825e-04135f936229)
